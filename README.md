@@ -11,9 +11,4 @@ Before running the application, ensure you have the following installed:
 - [Uvicorn](https://www.uvicorn.org/) (for running the FastAPI server)
 - [Newman](https://www.npmjs.com/package/newman) (Postman CLI for automated testing) - Optional
 
-## Installation
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/text-classification-api.git
-   cd text-classification-api
